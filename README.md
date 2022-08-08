@@ -38,8 +38,11 @@
 
 ![before](https://user-images.githubusercontent.com/88193682/183402715-bd7e5d95-a449-41f3-8ca1-8dfedea57867.png)
 
+* There are second screenshot, after searching a movie like = Avegers, 
 
 
+
+![after](https://user-images.githubusercontent.com/88193682/183402953-2ce08b5b-330a-46de-8cde-dad648f14219.png)
 
 
 
