@@ -1,6 +1,5 @@
 ## Movies App Using React
 
-- Project CRA Cleanup
 - API Calls
 - Search
 - Movies Info
@@ -33,6 +32,11 @@
        npm start
        
 * It will open the application in your browser.
+
+* There is the first screenshot given, which show after run the project - 
+
+
+![before](https://user-images.githubusercontent.com/88193682/183402715-bd7e5d95-a449-41f3-8ca1-8dfedea57867.png)
 
 
 
